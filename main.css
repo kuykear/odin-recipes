@@ -2,7 +2,6 @@ html{font-size: 22px;}
 body{background-color: #333;
     color: whitesmoke;}
 
-
 a {color:aliceblue}
 
 a:visited{color:lightgray}
@@ -15,3 +14,11 @@ table, tr, th, td, caption {
     border-collapse: collapse;
     padding: 0.5rem;
 } 
+
+.header {
+    text-align: center;
+    border:solid
+}
+.logo{
+    text-align: center;
+}
