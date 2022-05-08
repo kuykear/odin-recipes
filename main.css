@@ -15,10 +15,37 @@ table, tr, th, td, caption {
     padding: 0.5rem;
 } 
 
-.header {
+h1 {
+    background-color: black;
     text-align: center;
-    border:solid
+    font-size: 36px;
 }
+
+h2 {
+    background-color: lightgray;
+    color: #000000;
+    text-align: center;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+
+h2 a:active {
+    color: #000000;
+}
+
+h2 a:visited {
+    color: #252424;
+}
+
+h2 a:hover {
+    color: #000000;
+}
+
+.video{
+    text-align: center;
+}
+
 .logo{
     text-align: center;
 }
